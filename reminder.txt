@@ -2,6 +2,8 @@ expo start - mobile
 npm run dev - server
 npm run dev - web
 
+Link do Figma: https://www.figma.com/file/Q4hopXW6CxgTD8vmSJlR2O/NLW-eSports-(Community)?node-id=1%3A640
+
 npx prisma studio - Iniciar o client do Prisma
 
 Baixar npm caso não tenha instalado.
