@@ -1,0 +1,17 @@
+expo start - mobile
+npm run dev - server
+npm run dev - web
+
+npx prisma studio - Iniciar o client do Prisma
+
+Baixar npm caso não tenha instalado.
+Baixar prisma caso não tenha instalado.
+
+Node:
+Ver documentação
+
+Prisma order:
+npm i prisma -D
+npx prisma init --datasource-provider SQLite
+npx prisma migrate dev
+npx prisma studio
