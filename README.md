@@ -1,4 +1,4 @@
-# api-nlw-esports
-API construída durante a NLW eSports.
+# nlw-esports-ignite
+API RESTful construída durante a NLW eSports trilha ignite.
 
 Todas as commits estão adicionas na master.
